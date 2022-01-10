@@ -1,6 +1,6 @@
 REM The next four lines open Notepad in Windows and type "Hello World!"
-GUI r
-STRING notepad
+GUI SPACE
+STRING Terminal.app
 ENTER
-DELAY 250
-STRING Hello World!
+DELAY 350
+STRING Hello Pizza
